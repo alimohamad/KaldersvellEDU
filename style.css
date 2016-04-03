@@ -1,0 +1,83 @@
+html{
+
+	text-align: center;
+
+}
+
+.container-fluid{
+
+	min-height: 100%;
+
+}
+
+#navbar{
+
+	background-color: darkgrey;
+
+}
+
+#navbar a{
+
+	color: black;
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+#Home{
+color: white;
+    background: linear-gradient(      
+      rgba(0, 0, 0, 0.65), 
+      rgba(0, 0, 0, 0.65)
+    ),
+	url(Images/cold-snow-winter-mountain.jpeg);
+	background-size: 100% 100%;
+	text-align: center;
+	overflow-y: hidden;
+
+}
+
+#Home h1{
+
+	font-family: 'Montserrat', sans-serif;
+
+
+}
+#Home h3{
+
+	font-family: 'Montserrat', sans-serif;
+
+}
+#About h1
+
+	font-family: 'Montserrat', sans-serif;
+
+
+}
+
+#About h3{
+
+	font-family: 'Montserrat', sans-serif;
+
+
+}
+
+#screenshot{
+    width:640px;
+    height: auto;
+
+}
+
+.btn{
+
+	background-color:  color: darkgrey;
+	color: black;
+
+}
+
+#logo{
+	
+	width:200px;
+    height: auto;
+
+
+}
